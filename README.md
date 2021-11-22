@@ -1,3 +1,4 @@
 # EDA-Data-preparation-Crawler-Data-required-related
 Organize EDA / Data preparation / Crawler / Data required related knowledge
-- [EDA]()
+- [EDA](https://github.com/AbandonBlue/EDA-Data-preparation-Crawler-Data-required-related/tree/main/EDA)
+- Crawler
