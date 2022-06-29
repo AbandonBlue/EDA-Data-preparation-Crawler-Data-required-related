@@ -7,3 +7,5 @@ Organize EDA / Data preparation / Crawler / Data required related knowledge
     - [pd-batch-precessing](https://github.com/AbandonBlue/daily-ds/blob/main/data-processing/%E6%89%B9%E9%87%8F%E8%99%95%E7%90%86pandas.ipynb)
     - [keras-masking&padding](https://github.com/AbandonBlue/daily-ds/blob/main/data-processing/keras_masking%26padding.ipynb)
 - Feature-engineering
+    - Autoencoder
+    - KNN
